@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Charge Beam",
+    "type": "toggle",
+    "img": "images/ChargeBeam.png",
+    "codes": "charge"
+  },
+  {
+    "name": "Wide Beam",
+    "type": "toggle",
+    "img": "images/WideBeam.png",
+    "codes": "wide"
+  },
+  {
+    "name": "Plasma Beam",
+    "type": "toggle",
+    "img": "images/PlasmaBeam.png",
+    "codes": "plasma"
+  },
+  {
+    "name": "Wave Beam",
+    "type": "toggle",
+    "img": "images/WaveBeam.png",
+    "codes": "wave"
+  },
+  {
+    "name": "Ice Beam",
+    "type": "toggle",
+    "img": "images/IceBeam.png",
+    "codes": "ice"
+  },
+  {
+    "name": "Missile Data",
+    "type": "toggle",
+    "img": "images/NormalMissileData.png",
+    "codes": "normalmissile"
+  },
+  {
+    "name": "Super Missile Data",
+    "type": "toggle",
+    "img": "images/SuperMissileData.png",
+    "codes": "supermissile"
+  },
+  {
+    "name": "Diffusion Missile Data",
+    "type": "toggle",
+    "img": "images/DiffusionMissileData.png",
+    "codes": "diffusionmissile"
+  },
+  {
+    "name": "Ice Missile Data",
+    "type": "toggle",
+    "img": "images/IceMissileData.png",
+    "codes": "icemissile"
+  },
+  {
+    "name": "Hi-Jump",
+    "type": "toggle",
+    "img": "images/HiJump.png",
+    "codes": "hijump"
+  },
+  {
+    "name": "Speed Booster",
+    "type": "toggle",
+    "img": "images/SpeedBooster.png",
+    "codes": "speed"
+  },
+  {
+    "name": "Space Jump",
+    "type": "toggle",
+    "img": "images/SpaceJump.png",
+    "codes": "space"
+  },
+  {
+    "name": "Screw Attack",
+    "type": "toggle",
+    "img": "images/ScrewAttack.png",
+    "codes": "screw"
+  },
+  {
+    "name": "Morph Ball",
+    "type": "toggle",
+    "img": "images/MorphBall.png",
+    "codes": "morph"
+  },
+  {
+    "name": "Bomb Data",
+    "type": "toggle",
+    "img": "images/NormalBombData.png",
+    "codes": "normalbomb"
+  },
+  {
+    "name": "Power Bomb Data",
+    "type": "toggle",
+    "img": "images/PowerBombData.png",
+    "codes": "powerbomb"
+  },
+  {
+    "name": "Varia Suit",
+    "type": "toggle",
+    "img": "images/VariaSuit.png",
+    "codes": "varia"
+  },
+  {
+    "name": "Gravity Suit",
+    "type": "toggle",
+    "img": "images/GravitySuit.png",
+    "codes": "gravity"
+  },
+  {
+    "name": "Gray Locks",
+    "type": "toggle",
+    "img": "images/GrayLocks.png",
+    "codes": "gray"
+  },
+  {
+    "name": "Blue Locks",
+    "type": "toggle",
+    "img": "images/BlueLocks.png",
+    "codes": "blue"
+  },
+  {
+    "name": "Green Locks",
+    "type": "toggle",
+    "img": "images/GreenLocks.png",
+    "codes": "green"
+  },
+  {
+    "name": "Yellow Locks",
+    "type": "toggle",
+    "img": "images/YellowLocks.png",
+    "codes": "yellow"
+  },
+  {
+    "name": "Red Locks",
+    "type": "toggle",
+    "img": "images/RedLocks.png",
+    "codes": "red"
+  },
+  {
+    "name": "Metroid Infant",
+    "type": "consumable",
+    "img": "images/MetroidInfant.png",
+    "max_quantity": 11,
+    "increment": 1,
+    "codes": "metroid"
+  },
+  {
+    "name": "Arachnus",
+    "type": "toggle",
+    "img": "images/Arachnus.png",
+    "codes": "arachnus"
+  },
+  {
+    "name": "Elephant Bird",
+    "type": "toggle",
+    "img": "images/Elephant Bird.png",
+    "codes": "bird"
+  },
+  {
+    "name": "Zazabi",
+    "type": "toggle",
+    "img": "images/Zazabi.png",
+    "codes": "zazabi"
+  },
+  {
+    "name": "Serris",
+    "type": "toggle",
+    "img": "images/Serris.png",
+    "codes": "serris"
+  },
+  {
+    "name": "Barrier Core X",
+    "type": "toggle",
+    "img": "images/Barrier Core-X.png",
+    "codes": "core"
+  },
+  {
+    "name": "Scientist",
+    "type": "toggle",
+    "img": "images/Scientist.png",
+    "codes": "scientist"
+  },
+  {
+    "name": "Yakuza",
+    "type": "toggle",
+    "img": "images/Yakuza.png",
+    "codes": "yakuza"
+  },
+  {
+    "name": "Nettori",
+    "type": "toggle",
+    "img": "images/Nettori.png",
+    "codes": "nettori"
+  },
+  {
+    "name": "Nightmare",
+    "type": "toggle",
+    "img": "images/Nightmare.png",
+    "codes": "nightmare"
+  },
+  {
+    "name": "Security Robot B.O.X.",
+    "type": "toggle",
+    "img": "images/X-BOX.png",
+    "codes": "xbox"
+  },
+  {
+    "name": "Neo Ridley",
+    "type": "toggle",
+    "img": "images/Neo Ridley.png",
+    "codes": "ridley"
+  }
+]
